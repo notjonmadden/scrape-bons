@@ -1,1 +1,3 @@
 # scrape-bons
+
+Each year [northshore magazine](https://www.nshoremag.com/) runs the Best of the North Shore (BONS) competition, which picks out the best businesses in the North Shore region of Massachusetts. Because I wanted to see how my city (Salem!) fared, I used python with scrapy to break down the winners, which I uploaded [here](https://docs.google.com/spreadsheets/d/1r8SxxaNaiRdwscfrdQ_FTSajARIpJ6XeFIyR3hDpauo/edit?usp=sharing).
